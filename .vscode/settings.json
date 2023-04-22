@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.html": "django-html",
+        "*css": "tailwindcss",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "bit": "cpp",
+        "all": "cpp"
+    },
+    "cSpell.words": [
+        "binpow",
+        "bitwidth"
+    ]
+}
