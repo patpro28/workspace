@@ -1,0 +1,9 @@
+[submodule "checker"]
+	path = checker
+	url = https://github.com/patpro28/library-checker-problems
+[submodule "problems"]
+	path = problems
+	url = https://github.com/patpro28/problems
+[submodule "editorial"]
+	path = editorial
+	url = https://github.com/patpro28/editorial
