@@ -7,3 +7,6 @@
 [submodule "editorial"]
 	path = editorial
 	url = https://github.com/patpro28/editorial
+[submodule "todolist"]
+	path = todolist
+	url = https://github.com/patpro28/todolist
